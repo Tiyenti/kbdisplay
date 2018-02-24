@@ -1,0 +1,102 @@
+{
+    "width": 340,
+    "height": 180,
+    "buttons": [
+        {
+            "keycode": 25,
+            "x": 51,
+            "y": 9,
+            "width": 43,
+            "height": 43,
+            "text": "W"
+        },
+        {
+            "keycode": 38,
+            "x": 19,
+            "y": 53,
+            "width": 43,
+            "height": 43,
+            "text": "A"
+        },
+        {
+            "keycode": 39,
+            "x": 63,
+            "y": 53,
+            "width": 43,
+            "height": 43,
+            "text": "S"
+        },
+        {
+            "keycode": 40,
+            "x": 107,
+            "y": 53,
+            "width": 43,
+            "height": 43,
+            "text": "D"
+        },
+        {
+            "keycode": 50,
+            "x": 19,
+            "y": 107,
+            "width": 100,
+            "height": 43,
+            "text": "⇑"
+        },
+        {
+            "keycode": 65,
+            "x": 130,
+            "y": 107,
+            "width": 195,
+            "height": 43,
+            "text": ""
+        },
+        {
+            "keycode": 113,
+            "x": 180,
+            "y": 53,
+            "width": 43,
+            "height": 43,
+            "text": "◀"
+        },
+        {
+            "keycode": 111,
+            "x": 224,
+            "y": 9,
+            "width": 43,
+            "height": 43,
+            "text": "▲"
+        },
+        {
+            "keycode": 114,
+            "x": 268,
+            "y": 53,
+            "width": 43,
+            "height": 43,
+            "text": "▶"
+        },
+        {
+            "keycode": 116,
+            "x": 224,
+            "y": 53,
+            "width": 43,
+            "height": 43,
+            "text": "▼"
+        },
+        {
+            "keycode": 24,
+            "x": 7,
+            "y": 9,
+            "width": 43,
+            "height": 43,
+            "text": "Q"
+        },
+        {
+            "keycode": 28,
+            "x": 130,
+            "y": 9,
+            "width": 43,
+            "height": 43,
+            "text": "T"
+        }
+    ]
+}
