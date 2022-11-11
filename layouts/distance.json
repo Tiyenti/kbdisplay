@@ -1,6 +1,14 @@
 {
     "width": 340,
     "height": 180,
+	"rootbg": "#000066",
+	"bg1": "#777777",
+	"fg1": "#FFFFFF",
+	"bg2": "#FFFFFF",
+	"fg2": "#000000",
+	"fontfamily": "sans-serif",
+	"fontsize": "12",
+	"fontweight": "normal",
     "buttons": [
         {
             "keycode": 25,
